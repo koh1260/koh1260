@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=koh1260)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=koh1260&color=auto)
