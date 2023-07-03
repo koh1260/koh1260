@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 🌈 Tech Stacks 🌈
+  # 😼 Tech Stacks 😼
 
   
   ### 🐈 Main Language
