@@ -21,7 +21,7 @@
   ### ⛅ Framework & Library
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/Nest.js-#E0234E?style=for-the-badge&logo=nest.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Nest.js-#E0234E?style=for-the-badge&logo=nest&logoColor=white">
   <br/>
   <br/>
   <br/>
