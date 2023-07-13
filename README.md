@@ -21,7 +21,7 @@
   
   ### 🐘 Database
   <img src="https://img.shields.io/badge/Postgre-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Maria-1F305F?style=for-the-badge&logo=mariadb&logoColor=white">
   <br/>
   <br/>
   <br/>
