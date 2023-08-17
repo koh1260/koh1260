@@ -28,4 +28,4 @@
   
 </div>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koh1260@naver.com )](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koh1260@naver.com)](https://github.com/anuraghazra/github-readme-stats)
