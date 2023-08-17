@@ -28,4 +28,3 @@
   
 </div>
 
-[![leemhoon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koh1260&layout=compact&count_private=true&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
