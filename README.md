@@ -25,9 +25,8 @@
   <br/>
   <br/>
   <br/>
-  
+
+  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koh1260)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=koh1260" />
-</a>
+
