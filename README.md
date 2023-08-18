@@ -26,10 +26,7 @@
   <br/>
   <br/>
 
-  <div>
-    [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koh1260)](https://github.com/anuraghazra/github-readme-
-  </div>
-  stats)
+  [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koh1260&layout=compact&count_private=true&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
