@@ -3,7 +3,6 @@
   ### tech stack
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E">
-  <img src="https://img.shields.io/badge/Maria-1F305F?style=for-the-badge&logo=mariadb&logoColor=white">
   <br/>
   <br/>
   <br/>
