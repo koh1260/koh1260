@@ -24,11 +24,16 @@
 
 ### Service Link
 
-[![🎮 리브아일랜드 놀러가기](https://img.shields.io/badge/🎮_리브아일랜드_놀러가기-00e676?style=for-the-badge)](https://livisland.com)
+<a href="https://livisland.com" target="_blank">
+  <img src="https://img.shields.io/badge/🎮_리브아일랜드_놀러가기-00e676?style=for-the-badge" alt="리브아일랜드 놀러가기" />
+</a>
 
 ### Blog
 
-[![📝 기술 블로그 보러가기](https://img.shields.io/badge/📝_기술_블로그_보러가기-2196f3?style=for-the-badge)](https://your-blog-link.com)
+<a href="https://velog.io/@a001206/posts" target="_blank">
+  <img src="https://img.shields.io/badge/📝_기술_블로그_보러가기-2196f3?style=for-the-badge" alt="기술 블로그 보러가기" />
+</a>
+
 
 ### Stats
 
