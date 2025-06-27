@@ -2,6 +2,9 @@
 
 - 현재 개인 프로젝트로 진행한 메타버스 서비스 리브아일랜드의 기획, 개발, 디자인을 모두 직접 맡아 운영하고 있습니다.
 
+### Service Link
+
+[![🎮 리브아일랜드 놀러가기](https://img.shields.io/badge/🎮_리브아일랜드_놀러가기-00e676?style=for-the-badge)](https://livisland.com)
 
 ### Tech Stack
 
@@ -13,11 +16,6 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/></td>
   </tr>
 </table>
-
-### Link
-
-[![🎮 리브아일랜드 놀러가기](https://img.shields.io/badge/🎮_리브아일랜드_놀러가기-00e676?style=for-the-badge)](https://livisland.com)
-
 
 ### Stats
 
