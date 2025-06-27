@@ -16,8 +16,9 @@
 
 ### Link
 
-[![🎮 리브아일랜드 놀러가기](https://img.shields.io/badge/🎮_리브아일랜드_놀러가기-00c896?style=for-the-badge)](https://livisland.com)
+[![🎮 리브아일랜드 놀러가기](https://img.shields.io/badge/🎮_리브아일랜드_놀러가기-00e676?style=for-the-badge)](https://livisland.com)
+
 
 ### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koh1260&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koh1260&show_icons=true&theme=merko)
